@@ -256,3 +256,8 @@ input[type="radio"]{
 input[type="radio"]:checked +  span::before{
     box-shadow: inset 0 0 0 5px #002c8f;
 }
+
+.footer a{
+    text-decoration: none !important;
+    text-align: justify;
+}
